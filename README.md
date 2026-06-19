@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Hey+%F0%9F%91%8B+I'm+Harsha+Vardhan;Full-Stack+Developer;Building+AI+Solutions)](https://git.io/typing-svg)
 
-# Hey, I'm Harsha Vardhan 👋
 
 **Full-Stack Developer | B.Tech CSE 4th Year | CGPA: 8.8**
 
