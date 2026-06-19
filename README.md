@@ -80,24 +80,6 @@
 
 </div>
 
----
-
-## 🌟 My Skills Level
-
-<div align="center">
-
-| Skill | Proficiency |
-|-------|---|
-| React.js | ⭐⭐⭐⭐⭐ |
-| Node.js | ⭐⭐⭐⭐⭐ |
-| JavaScript | ⭐⭐⭐⭐⭐ |
-| MongoDB | ⭐⭐⭐⭐☆ |
-| Python | ⭐⭐⭐⭐☆ |
-| Java | ⭐⭐⭐⭐☆ |
-| SQL | ⭐⭐⭐⭐⭐ |
-| Django | ⭐⭐⭐⭐☆ |
-
-</div>
 
 ---
 
