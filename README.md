@@ -16,24 +16,6 @@
 
 ---
 
-## 📍 Quick Info Card
-
-<div align="center">
-
-```
-╔════════════════════════════════════╗
-║  📧 hreshavena@gmail.com          ║
-║  📱 +91 7396149172                ║
-║  📍 Hyderabad, Telangana, India   ║
-║  🎓 Sreyas Institute (4th Year)   ║
-║  ⭐ CGPA: 8.8/10                  ║
-╚════════════════════════════════════╝
-```
-
-</div>
-
----
-
 ## 🛠️ Tech Stack (Colorful)
 
 <div align="center">
