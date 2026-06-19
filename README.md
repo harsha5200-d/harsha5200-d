@@ -1,3 +1,1 @@
-## 🐍 GitHub Activity
-
-![Snake animation](https://raw.githubusercontent.com/harsha5200-d/harsha5200-d/output/dist/snake.svg)
+![snake gif](https://github.com/harsha5200-d/harsha5200-d/raw/output/dist/snake.svg)
