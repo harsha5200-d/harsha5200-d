@@ -9,17 +9,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: harsha5200-d
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          outputs: dist/snake.svg
 
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Deploy to output branch
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: output
+          branch: output
+          folder: dist
