@@ -61,15 +61,13 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harsha5200-d&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9&icon_color=58a6ff" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harsha5200-d&theme=radical&hide_border=true&ring=ff6b9d&fire=ff6b9d" width="49%" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=harsha5200-d&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=0" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=harsha5200-d&theme=radical&hide_border=true&ring=ff6b9d&fire=ff6b9d&cache_seconds=0" width="49%" />
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha5200-d&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9&layout=compact" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha5200-d&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9&layout=compact&cache_seconds=0" width="60%"/>
+</div>
 
 </div>
 
