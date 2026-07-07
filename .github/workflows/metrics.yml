@@ -2,8 +2,8 @@ name: Generate Profile Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily refresh
-  workflow_dispatch:        # lets you trigger it manually anytime
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches: [ main ]
 
@@ -13,7 +13,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -23,3 +27,11 @@ jobs:
           config_timezone: Asia/Kolkata
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
+
+      - name: Commit and push metrics.svg
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add metrics.svg
+          git diff --cached --quiet || git commit -m "chore: update metrics"
+          git push
