@@ -1,15 +1,16 @@
-<div align="center">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=G.%20Karthikeya&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Java%20Developer&descAlignY=65"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/harsha5200-d/harsha5200-d/main/space-banner.svg" alt="Harsha Vardhan banner" width="100%"/>
+<h1 align="center">Hi 👋, I'm R harsha vardhan </h1>
 
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Java+%7C+Python+Developer;AI+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies" />
+</p>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+💻;B.Tech+CSE+Final+Year+🎓;MERN+%2B+Java+Enthusiast+⚡;Always+shipping+something+new+🚀)](https://git.io/typing-svg)
-
-</div>
-
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
+</p>
 ---
 
 ## 🛠️ Tech Stack
