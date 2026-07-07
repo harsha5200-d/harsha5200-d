@@ -1,35 +1,32 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&width=500&lines=Hi+I'm+Harsha+Vardhan+👋;Full-Stack+Developer+💻;B.Tech+CSE+4th+Year+🎓;CGPA:+8.8+⭐)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/harsha5200-d/harsha5200-d/main/space-banner.svg" alt="Harsha Vardhan banner" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+💻;B.Tech+CSE+Final+Year+🎓;MERN+%2B+Java+Enthusiast+⚡;Always+shipping+something+new+🚀)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<div align="center">
-
-### 🚀 Building scalable web applications and AI-powered solutions
-
-![Wave Animation](https://img.shields.io/badge/Welcome-To-My-Profile-ff6b9d?style=for-the-badge&logo=github)
-
-</div>
-
----
-
-## 🛠️ Tech Stack (Colorful)
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -37,12 +34,12 @@
 ### 💾 Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=api&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 💪 Programming Languages
+### 💪 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -50,7 +47,7 @@
 
 ---
 
-## 🐍 My Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -60,26 +57,20 @@
 
 ---
 
-## 📊 GitHub Statistics & Activity
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsha5200-d&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9&icon_color=58a6ff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harsha5200-d&theme=radical&hide_border=true&ring=ff6b9d&fire=ff6b9d)
+<img src="https://github-readme-stats.vercel.app/api?username=harsha5200-d&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9&icon_color=58a6ff" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harsha5200-d&theme=radical&hide_border=true&ring=ff6b9d&fire=ff6b9d" width="49%" />
 
 </div>
-
----
-
-## 💻 Most Used Languages
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsha5200-d&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha5200-d&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9&layout=compact" width="60%"/>
 
 </div>
-
 
 ---
 
@@ -87,11 +78,11 @@
 
 <div align="center">
 
-🔨 **AI-Powered Learning Platform** - Full Stack MERN + AI Integration
+🔨 **AI-Powered Job Search App** — React + Adzuna API, TypeScript, "departures board" UI
 
-📊 **Building scalable applications** with modern tech stack
+📊 **Full-stack portfolio** — Vite + Tailwind + Three.js visualizations
 
-🧠 **Learning** - Advanced DSA, System Design & ML Integration
+🧠 **Learning** — Advanced DSA, System Design & AI/ML integration
 
 </div>
 
@@ -129,8 +120,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harsha5200-d&color=ff6b9d)
 
-⭐ If you like my work, consider giving it a star!
-
-**Last Updated:** June 2026
+⭐ If you like this profile, consider giving it a star!
 
 </div>
