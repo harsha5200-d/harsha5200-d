@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/harsha5200-d/harsha5200-d/main/harsha_space_banner_preview.svg" alt="Harsha Vardhan banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/harsha5200-d/harsha5200-d/main/space-banner.svg" alt="Harsha Vardhan banner" width="100%"/>
 
 </div>
-
 
 <div align="center">
 
