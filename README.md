@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=G.%20Karthikeya&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Java%20Developer&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=G.%20 R Harsha Vardhan &fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Java%20Developer&descAlignY=65"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm R harsha vardhan </h1>
