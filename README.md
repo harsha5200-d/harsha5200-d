@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=R.%20HarshaVardhan&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Java%20Developer&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=R.%20HarshaVardhan&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Mern%20Developer&descAlignY=65"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm R harsha vardhan </h1>
+<h1 align="center">Hi, I'm R harsha vardhan </h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Java+%7C+Python+Developer;AI+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies" />
