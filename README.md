@@ -60,17 +60,13 @@
 
 ## 📊 GitHub Statistics
 
-![Metrics](https://raw.githubusercontent.com/harsha5200-d/harsha5200-d/main/metrics.svg)
+
 
 
 <div align="center">
-  ![Stats](https://github-readme-stats.vercel.app/api?username=harsha5200-d&show_icons=true&theme=radical)
+![Metrics](https://raw.githubusercontent.com/harsha5200-d/harsha5200-d/main/metrics.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsha5200-d&layout=compact&theme=radical)
-
-![Streak](https://streak-stats.demolab.com/?user=harsha5200-d&theme=radical)
-
-<img src="https://github-readme-stats.vercel.app/api?username=harsha5200-d&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=0" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=harsha5200d&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=0" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=harsha5200-d&theme=radical&hide_border=true&ring=ff6b9d&fire=ff6b9d&cache_seconds=0" width="49%" />
 </div>
 
