@@ -14,11 +14,11 @@
 
 👨‍💻 About Me
 
-- 🎓 Final-year Computer Science undergraduate, passionate about building full-stack web applications
-- 💻 Focused on the **MERN stack** (MongoDB, Express.js, React.js, Node.js) with strong fundamentals in **DSA**
-- 🤖 Exploring AI/ML integration into web apps — building tools like AI-powered learning platforms and interview assistants
-- 🌱 Currently leveling up in **System Design** and advanced **DSA**
-- 🎯 Goal: Land a Full Stack Developer role and keep shipping projects that solve real problems
+ 🎓 Final-year Computer Science undergraduate, passionate about building full-stack web applications
+ 💻 Focused on the **MERN stack** (MongoDB, Express.js, React.js, Node.js) with strong fundamentals in **DSA**
+ 🤖 Exploring AI/ML integration into web apps — building tools like AI-powered learning platforms and interview assistants
+ 🌱 Currently leveling up in **System Design** and advanced **DSA**
+ 🎯 Goal: Land a Full Stack Developer role and keep shipping projects that solve real problems
 - ⚡ Fun fact: I enjoy giving my projects a polished, animated UI — space themes and glassmorphism are my current obsession
 
 🎓 Education
