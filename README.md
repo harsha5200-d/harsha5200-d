@@ -77,19 +77,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harsha5200-d&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&icon_color=00FF88&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harsha5200-d&theme=radical&hide_border=true&background=0d1117&ring=ff6b9d&fire=00FF88&currStreakLabel=ff6b9d" width="49%"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha5200-d&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9&layout=compact&cache_seconds=0" width="50%"/>
-
-</div>
-
 <br>
 
 ## 🐍 Contribution Snake
