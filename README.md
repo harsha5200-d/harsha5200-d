@@ -107,33 +107,34 @@
 
 ## 💻 Coding Profiles
 
-<div align="center">
+<p align="center">
+  <a href="https://leetcode.com/u/rharshavardhan205/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="70" height="70" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-<a href="https://leetcode.com/u/rharshavardhan205/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/hresha4yj1" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg" width="70" height="70" alt="GeeksforGeeks"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-<a href="https://www.geeksforgeeks.org/profile/hresha4yj1" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-</a>
-&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/hreshavena" target="_blank">
+    <img src="https://skillicons.dev/icons?i=hackerrank" width="70" height="70" alt="HackerRank"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-<a href="https://www.hackerrank.com/profile/hreshavena" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-</a>
+  <a href="https://www.codechef.com/users/hreshavena2345" target="_blank">
+    <img src="https://cdn.simpleicons.org/codechef/5B4638" width="70" height="70" alt="CodeChef"/>
+  </a>
+</p>
 
-<br><br>
+<p align="center">
+  <b>LeetCode</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>GeeksforGeeks</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>HackerRank</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>CodeChef</b>
+</p>
 
-<a href="https://www.codechef.com/users/hreshavena2345" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/hresha4yj1" target="_blank">
-  <img src="https://img.shields.io/badge/Practice%20DSA-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="DSA"/>
-</a>
-
-</div>
 
 <br>
 
