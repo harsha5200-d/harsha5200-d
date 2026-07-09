@@ -51,8 +51,11 @@
 ### ⚙️ Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,java,python,django,flask&theme=dark" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=nodejs,java,python,django,flask&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB" />
 </p>
 
 ### 🗄️ Databases & Tools
