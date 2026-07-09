@@ -11,7 +11,6 @@
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
 </p>
----
 
 ## 🛠️ Tech Stack
 
@@ -46,7 +45,6 @@
 
 </div>
 
----
 
 ## 🐍 Contribution Snake
 
@@ -56,20 +54,7 @@
 
 </div>
 
----
 
-## 📊 GitHub Statistics
-
-
-
-
-<div align="center">
-  
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=harsha5200d&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=0" width="49%" />
-
-</div>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha5200-d&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9&layout=compact&cache_seconds=0" width="60%"/>
@@ -77,7 +62,7 @@
 
 </div>
 
----
+
 
 ## 🚀 Currently Working On
 
@@ -91,7 +76,6 @@
 
 </div>
 
----
 
 ## 🏆 Certifications
 
@@ -104,7 +88,6 @@
 
 </div>
 
----
 
 ## 🔗 Connect With Me
 
@@ -117,7 +100,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
