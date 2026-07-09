@@ -107,37 +107,41 @@
 
 ## 💻 Coding Profiles
 
-
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="120">
 <a href="https://leetcode.com/u/rharshavardhan205/" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="65"/>
+<img src="https://cdn.simpleicons.org/leetcode/FFB000" width="70" alt="LeetCode"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<br><b>LeetCode</b>
+</td>
 
+<td align="center" width="120">
 <a href="https://www.geeksforgeeks.org/profile/hresha4yj1" target="_blank">
-  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" alt="GeeksforGeeks" width="65"/>
+<img src="https://cdn.simpleicons.org/geeksforgeeks/00C853" width="70" alt="GeeksforGeeks"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<br><b>GeeksforGeeks</b>
+</td>
 
+<td align="center" width="120">
 <a href="https://www.hackerrank.com/profile/hreshavena" target="_blank">
-  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="HackerRank" width="65"/>
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="70" alt="HackerRank"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+<br><b>HackerRank</b>
+</td>
 
+<td align="center" width="120">
 <a href="https://www.codechef.com/users/hreshavena2345" target="_blank">
-  <img src="https://cdn.simpleicons.org/codechef/5B4638" alt="CodeChef" width="65"/>
+<img src="https://cdn.simpleicons.org/codechef/A67C52" width="70" alt="CodeChef"/>
 </a>
+<br><b>CodeChef</b>
+</td>
+</tr>
+</table>
 
 </div>
-
-<p align="center">
-<b>LeetCode</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>GeeksforGeeks</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>HackerRank</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>CodeChef</b>
-</p>
-
 <br>
 
 ## 🔗 Connect With Me
