@@ -12,18 +12,39 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
 </p>
 
-## 🛠️ Tech Stack
+👨‍💻 About Me
+
+- 🎓 Final-year Computer Science undergraduate, passionate about building full-stack web applications
+- 💻 Focused on the **MERN stack** (MongoDB, Express.js, React.js, Node.js) with strong fundamentals in **DSA**
+- 🤖 Exploring AI/ML integration into web apps — building tools like AI-powered learning platforms and interview assistants
+- 🌱 Currently leveling up in **System Design** and advanced **DSA**
+- 🎯 Goal: Land a Full Stack Developer role and keep shipping projects that solve real problems
+- ⚡ Fun fact: I enjoy giving my projects a polished, animated UI — space themes and glassmorphism are my current obsession
+
+🎓 Education
 
 <div align="center">
 
-### 🎨 Frontend
+| Degree | Institution | CGPA | Duration |
+|---|---|---|---|
+| **B.Tech, Computer Science and Engineering** | Sreyas Institute of Engineering and Technology | **8.8** | 2023 – Present |
+| **Intermediate (MPC)** | Keshav Memorial Junior College | **9.4** | 2021 – 2022 |
+
+</div>
+
+
+🛠️ Tech Stack
+
+<div align="center">
+
+🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### ⚙️ Backend
+⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -31,12 +52,12 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 💾 Databases & Tools
+💾 Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 💪 Languages
+💪 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -46,7 +67,7 @@
 </div>
 
 
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <div align="center">
 
@@ -64,7 +85,7 @@
 
 
 
-## 🚀 Currently Working On
+🚀 Currently Working On
 
 <div align="center">
 
@@ -77,19 +98,20 @@
 </div>
 
 
-## 🏆 Certifications
+🏆 Certifications
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python%20Basic-HackerRank-blue?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-HackerRank-blue?style=flat-square)
 ![Java](https://img.shields.io/badge/Java%20Programming-CodeChef-orange?style=flat-square)
-![Python Bootcamp](https://img.shields.io/badge/100%20Days%20Code-Plasmid%20Innovation-green?style=flat-square)
+![C](https://img.shields.io/badge/Problem%20Solving%20in%20C-CodeChef-orange?style=flat-square)
+![Python Bootcamp](https://img.shields.io/badge/100%20Days%20of%20Code-Python%20Bootcamp-green?style=flat-square)
 
 </div>
 
 
-## 🔗 Connect With Me
+🔗 Connect With Me
 
 <div align="center">
 
@@ -104,7 +126,7 @@
 
 <div align="center">
 
-### 💡 "Code is art, debugging is meditation"
+💡 "Code is art, debugging is meditation"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=harsha5200-d&color=ff6b9d)
 
