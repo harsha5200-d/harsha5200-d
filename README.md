@@ -103,15 +103,35 @@
 
 <br>
 
-## 🏆 Certifications
+<br>
+
+## 💻 Coding Profiles
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python%20Basic-HackerRank-blue?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-HackerRank-blue?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java%20Programming-CodeChef-orange?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/Problem%20Solving%20in%20C-CodeChef-orange?style=flat-square&logo=c&logoColor=white)
-![Python Bootcamp](https://img.shields.io/badge/100%20Days%20of%20Code-Python%20Bootcamp-green?style=flat-square&logo=python&logoColor=white)
+<a href="https://leetcode.com/u/rharshavardhan205/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.geeksforgeeks.org/profile/hresha4yj1" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.hackerrank.com/profile/hreshavena" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+
+<br><br>
+
+<a href="https://www.codechef.com/users/hreshavena2345" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/hresha4yj1" target="_blank">
+  <img src="https://img.shields.io/badge/Practice%20DSA-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="DSA"/>
+</a>
 
 </div>
 
