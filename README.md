@@ -106,10 +106,8 @@
 
 </div>
 
-<br>
-
 ## 💻 Coding Profiles
-
+<br>
 <div align="center">
 
 <table>
