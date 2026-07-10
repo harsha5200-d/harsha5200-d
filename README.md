@@ -89,14 +89,6 @@
 
 # 🌐 My Portfolio
 
-<div align="center">
-
-<a href="https://portfolio-harsha-beta.vercel.app" target="_blank">
-
-<img src="https://img.shields.io/badge/🚀%20Live%20Portfolio-Visit%20Now-5B5FFF?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-</a>
-
 <br><br>
 
 <a href="https://portfolio-harsha-beta.vercel.app" target="_blank">
