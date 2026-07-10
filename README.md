@@ -121,10 +121,6 @@
 
 <br>
 
-<br>
-
-<br>
-
 ## 💻 Coding Profiles
 
 <div align="center">
