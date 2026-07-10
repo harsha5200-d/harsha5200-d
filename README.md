@@ -85,17 +85,54 @@
 
 <br>
 
-## 🚀 Currently Working On
+<br>
+
+# 🌐 My Portfolio
 
 <div align="center">
 
-| Project | Stack |
-|:---|:---|
-| 🔨 **AI-Powered Job Search App** | React · Adzuna API · TypeScript · "Departures Board" UI |
-| 📊 **Full-Stack Portfolio** | Vite · Tailwind · Three.js visualizations |
-| 🧠 **Learning** | Advanced DSA · System Design · AI/ML Integration |
+<a href="https://portfolio-harsha-beta.vercel.app" target="_blank">
+
+<img src="https://img.shields.io/badge/🚀%20Live%20Portfolio-Visit%20Now-5B5FFF?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+<a href="https://portfolio-harsha-beta.vercel.app" target="_blank">
+<img src="https://github.com/user-attachments/assets/portfolio-preview.png" width="100%" alt="Portfolio Preview"/>
+</a>
+
+### ✨ Modern Full Stack Developer Portfolio
+
+**Responsive • Animated • Glassmorphism UI • Space Theme • Dark Mode**
 
 </div>
+
+### 🚀 Features
+
+- 🌌 Interactive animated space background
+- 💼 Professional developer introduction
+- 🛠️ Skills & Technology showcase
+- 📂 Featured Projects section
+- 🎓 Education & Certifications
+- 💻 Coding Profiles
+- 📄 Resume Download
+- 📞 Contact Section
+- 🌙 Dark Theme with modern UI
+- ⚡ Fully Responsive
+
+<div align="center">
+
+### 🔗 Live Website
+
+### **🌍 https://portfolio-harsha-beta.vercel.app**
+
+⭐ **Feel free to explore my portfolio and connect with me!**
+
+</div>
+
+<br>
 
 <br>
 
