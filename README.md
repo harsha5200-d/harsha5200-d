@@ -100,7 +100,7 @@
 <br><br>
 
 <a href="https://portfolio-harsha-beta.vercel.app" target="_blank">
-<img src="https://github.com/user-attachments/assets/portfolio-preview.png" width="100%" alt="Portfolio Preview"/>
+<img src="https://github.com/harsha5200-d/harsha5200-d/blob/main/portfolio-preview.png" width="100%" alt="Portfolio Preview"/>
 </a>
 
 ### ✨ Modern Full Stack Developer Portfolio
@@ -108,19 +108,6 @@
 **Responsive • Animated • Glassmorphism UI • Space Theme • Dark Mode**
 
 </div>
-
-### 🚀 Features
-
-- 🌌 Interactive animated space background
-- 💼 Professional developer introduction
-- 🛠️ Skills & Technology showcase
-- 📂 Featured Projects section
-- 🎓 Education & Certifications
-- 💻 Coding Profiles
-- 📄 Resume Download
-- 📞 Contact Section
-- 🌙 Dark Theme with modern UI
-- ⚡ Fully Responsive
 
 <div align="center">
 
