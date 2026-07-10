@@ -89,17 +89,12 @@
 
 # 🌐 My Portfolio
 
-<br><br>
+<br>
 
 <a href="https://portfolio-harsha-beta.vercel.app" target="_blank">
 <img src="https://github.com/harsha5200-d/harsha5200-d/blob/main/portfolio-preview.png" width="100%" alt="Portfolio Preview"/>
 </a>
 
-### ✨ Modern Full Stack Developer Portfolio
-
-**Responsive • Animated • Glassmorphism UI • Space Theme • Dark Mode**
-
-</div>
 
 <div align="center">
 
