@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=R.%20Harsha%20Vardhan&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20MERN%20Developer&descAlignY=65&descSize=18"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Java+%7C+Python+Developer;AI+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;AI+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies" />
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
 
